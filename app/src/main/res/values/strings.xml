@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Control with Brain Waves</string>
+    <string name="state_get_data_time_out">Bluetooth connection is lost or headset is off or disconnected.\nTurn on the headset.\nThen touch the image above and try again.</string>
+    <string name="state_stopped">Device is stopped for some reason. Turn headset on to continue and touch the image.</string>
+    <string name="state_disconnected">Device is disconnected. Turn headset on to continue and touch the image.</string>
+    <string name="state_error">Connection error was encountered. Touch the image above to try again.</string>
+    <string name="state_failed">Your headset is off. Put on the headset properly and turn it on.\nThen touch the image to connect.</string>
+    <string name="state_connected">BrainWave headset is connected and ready to use.\nWait a bit, please.\nThe program is retrieving data from your headset.</string>
+    <string name="no_blue_tooth">Enable Bluetooth connection to continue\nand then touch the image again.</string>
+    <string name="no_inet">Enable Internet connection to continue\nand then touch the image again.</string>
+    <string name="no_blue_tooth_inet">Enable Bluetooth and Internet connections first\nand then touch the image again to continue.</string>
+    <string name="severe_error">Severe problem was encountered. Please, restart application.</string>
+
+    <string name="title_activity_bulb_control">BulbControlActivity</string>
+    <string name="title_activity_training">TrainingActivity</string>
+
+    <string name="attention_tab_title">Attention</string>
+    <string name="relax_tab_title">Relaxation</string>
+    <string name="mixed_tab_title">Mixed mode</string>
+
+    <string name="gif_adress">https://mindwavebci.firebaseapp.com/wheel.html</string>
+    <string name="title_activity_bulb_direct_control">BulbDirectControl</string>
+    <!--string name="section_format">Hello World from section: %1$d</string-->
+
+    <string name="help_attention">The attention meter indicates the intensity of a user’s level of mental focus or attention, such as that which occurs during intense concentration and directed (but stable) mental activity.\n\nAttention can be controlled through a visual focus. Also, you can focus on singular idea.\n\nYou can try to "funnel" your concentration and focus your train of thought towards pushing up the meter.\n\nOther suggestions include picking a point one screen to stare at or imagining the action you are trying to accomplish happening.\n\nAlso, look at the Attention meter and imagine the dial moving towards higher numbers.</string>
+    <string name="info_attention_brightness">Here you can control brightness level of the smart bulb.\nDynamic meter which is depicted below shows you the level of your attentiveness. Use it to monitor your mind activity.\nThe higher level of your attention the brighter the bulb.</string>
+    <string name="info_attention_color">Here you can control color of the smart bulb.\nDynamic meter which which is depicted below shows you the level of your attentiveness and color which the bulb will get from your mind efforts. Use it to monitor your mind activity.\nThe higher level of your attention the redder the bulb. If you are not concentrated then the smart lamp becomes greener.</string>
+    <string name="info_attention_onoff">Here you can switch on and off your smart bulb.\nDynamic scale shows level of your attentiveness and two threshold values.\nWhen your mind becomes more active then the bulb is on. Vice versa, when you become unfocused and level of attention is below the lower threshold for some time then the lamp will be off. </string>
+
+    <string name="help_meditation">Mind relaxation (or meditation) meter indicates the level of a user\'s mental “calmness” or “relaxation”. Its value ranges from 0 to 100.\nNote that meditation is a measure of a person\'s mental states, not physical levels, so simply relaxing all the muscles of the body may not immediately result in a heightened mind relaxation or meditation level.\n\nHowever, for most people in most normal circumstances, relaxing the body often helps the mind to relax as well.\n\nMeditation is related to reduced activity by the active mental processes in the brain. It has long been an observed effect that closing one`s eyes turns off the mental activities which process images from the eyes. So closing the eyes is often an effective method for increasing the meditation meter level.\nDistractions, wandering thoughts, anxiety, agitation, and sensory stimuli may lower the meditation meter levels.</string>
+    <string name="info_meditation_brightness">Here you can control brightness level of the smart bulb.\nDynamic meter is depicted below and shows you the level of your mind relaxation. Use it to monitor your mind relaxation.\nThe higher level of your relaxation the weaker the brightness of the bulb.</string>
+    <string name="info_meditation_color">Here you can control color of the smart bulb.\nDynamic meter which depicted below shows the level of your mind relaxation and color which the bulb will get from this level. Use it to monitor your meditation level.\nThe higher level of meditation the bluer and purpler the bulb. If you are not relaxed then the smart lamp becomes greener.</string>
+    <string name="info_meditation_onoff">Here you can switch on and off your smart bulb.\nDynamic scale shows level of relaxation of your mind and two threshold values.\nWhen your mind becomes more relaxed then the bulb is on - this is meditation state. Vice versa, when you become active and level of relaxation is below the lower threshold (during some time) then the lamp will be off. </string>
+
+    <string name="info_mix_brightness">Here you can control brightness level of the smart bulb.\nTwo dynamic meters are depicted below. They are ascending and descending in opposite directions. \nThird meter appears when levels of attention and relaxation is high enough (red bar and magenta bar overlap).\nThe longer overlap (gray bar) the brighter the bulb.\nThis promote your ability to keep high levels of attention and relaxation at the same time.</string>
+    <string name="info_mix_color">Here you can control color of the smart bulb.\nThree stripes are shown below. When levels of your attention and mind relaxation are about on the same level bulb becomes yellow. When attention prevails over relaxation then bulb\'s color is red. And if your mind is relaxed then bulb emits magenta color.\nColors of the stripes are changing correspondingly.</string>
+
+    <string name="info_attention_empty">Choose the mode to control the smart bulb with the data from your brain (attention level).</string>
+    <string name="info_meditation_empty">Choose the mode to control the smart bulb with the data from your brain (relaxation level).</string>
+    <string name="info_mix_empty">Choose the mode to control the smart bulb with the combined data of your brain attention and relaxation levels.</string>
+</resources>

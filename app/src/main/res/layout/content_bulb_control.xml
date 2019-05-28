@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Activities.BulbControlActivity"
+    tools:showIn="@layout/activity_bulb_control">
+
+    <android.support.design.widget.TabLayout
+        android:id="@+id/brainTab"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <android.support.design.widget.TabItem
+            android:id="@+id/attentionTab"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:icon="@drawable/att"
+            android:tag="1"
+            android:text="@string/attention_tab_title"></android.support.design.widget.TabItem>
+
+        <android.support.design.widget.TabItem
+            android:id="@+id/meditationTab"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:icon="@drawable/med"
+            android:tag="2"
+            android:text="@string/relax_tab_title" />
+
+        <android.support.design.widget.TabItem
+            android:id="@+id/mixModeTab"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:icon="@drawable/mixed"
+            android:tag="3"
+            android:text="@string/mixed_tab_title" />
+    </android.support.design.widget.TabLayout>
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/viewPager"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</android.support.constraint.ConstraintLayout>
