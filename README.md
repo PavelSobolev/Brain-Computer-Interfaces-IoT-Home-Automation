@@ -11,4 +11,6 @@ This project peruses the following goals:
 3.	Choosing of appropriate BCI hardware systems which are suitable for achieving of project’s objectives.
 4.	Choosing of appropriate APIs, protocols, programming languages and frameworks which are optimal for achieving of project’s objectives.
 
-[Description of the project in the form of the report] (https://github.com/PavelSobolev/BrainComputerInterfaces_IoT_SmartHome/blob/master/770RIoT-Report-PavelSobolev.pdf)
+[Description of the project] (https://github.com/PavelSobolev/BrainComputerInterfaces_IoT_SmartHome/blob/master/770RIoT-Report-PavelSobolev.pdf)
+
+[Presentation of the project] (https://github.com/PavelSobolev/BrainComputerInterfaces_IoT_SmartHome/blob/master/770RIoT.pptx)
