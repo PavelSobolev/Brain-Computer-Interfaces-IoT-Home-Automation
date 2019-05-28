@@ -12,12 +12,17 @@ This project peruses the following goals:
 4.	Choosing of appropriate APIs, protocols, programming languages and frameworks which are optimal for achieving of project’s objectives.
 
 
-## System architecture
-![Architecture] (https://github.com/PavelSobolev/BrainComputerInterfaces_IoT_SmartHome/blob/master/1.png)
-
-## Images of working system
+### System architecture
 https://github.com/PavelSobolev/BrainComputerInterfaces_IoT_SmartHome/blob/master/1.png
 
-[Description of the project] (https://github.com/PavelSobolev/BrainComputerInterfaces_IoT_SmartHome/blob/master/770RIoT-Report-PavelSobolev.pdf)
+### Images of working system
+https://github.com/PavelSobolev/BrainComputerInterfaces_IoT_SmartHome/blob/master/1.png
 
-[Presentation of the project] (https://github.com/PavelSobolev/BrainComputerInterfaces_IoT_SmartHome/blob/master/770RIoT.pptx)
+### Examples of UI
+https://github.com/PavelSobolev/BrainComputerInterfaces_IoT_SmartHome/blob/master/3.png
+
+### Description of the project
+https://github.com/PavelSobolev/BrainComputerInterfaces_IoT_SmartHome/blob/master/770RIoT-Report-PavelSobolev.pdf
+
+### Presentation of the project
+https://github.com/PavelSobolev/BrainComputerInterfaces_IoT_SmartHome/blob/master/770RIoT.pptx
