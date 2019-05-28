@@ -16,7 +16,7 @@ This project peruses the following goals:
 https://github.com/PavelSobolev/BrainComputerInterfaces_IoT_SmartHome/blob/master/1.png
 
 ### Images of working system
-https://github.com/PavelSobolev/BrainComputerInterfaces_IoT_SmartHome/blob/master/1.png
+https://github.com/PavelSobolev/BrainComputerInterfaces_IoT_SmartHome/blob/master/2.png
 
 ### Examples of UI
 https://github.com/PavelSobolev/BrainComputerInterfaces_IoT_SmartHome/blob/master/3.png
