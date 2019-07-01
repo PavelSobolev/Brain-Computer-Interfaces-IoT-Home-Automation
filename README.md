@@ -1,6 +1,6 @@
-# BrainComputerInterfaces_IoT_HomeAutomation
+# Brain-Computer Interfaces, Internet of Things and Home Automation
 
-This is the final part of learning course Robotics and IoT (created in EDENZ Colleges, IT Academy, Diploma in Software Development).
+This is the final part of learning course Robotics and IoT (created for EDENZ Colleges (IT Academy, Diploma in Software Development, Level 7)).
 The project is dedicated to the development and implementation of software and hardware system for creation of interface between a human brain, computer (BCI – brain-computer interface) and devices of internet of things. The BCI-based system being developed can be used by any interested person primarily for self-development and self-education in the area of human psychology and promotion of level of personal mental effectiveness (by developing ability to control personal level of attention (or activity) and level of calmness (or relaxation)). Also, such a system can be used by people with physical disabilities.  Hardware part of the project will include BCI-device and a hardware system for providing a user with live feedback showing demonstrative effect of his brain activity.  Two technical systems are chosen to implement such a feedback:
 1.	home automation system which utilizes modern technologies of IoT (Internet of things) and technologies of smart home.
 2.	smartphone and mobile software which are aimed to give a user possibility to train one’s ability to consciously control two mentioned above physiological processes.
