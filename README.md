@@ -22,12 +22,8 @@ This project peruses the following goals:
 ![Images of working system](https://github.com/PavelSobolev/BrainComputerInterfaces_IoT_SmartHome/blob/master/2.png)
 
 ### Examples of UI
-First Header | Second Header | Third Header
------------- | ------------- | -------------
 
-![Examples of UI](https://github.com/PavelSobolev/BrainComputerInterfaces_IoT_SmartHome/blob/master/uiimg/01.jpeg) |  ![Examples of UI](https://github.com/PavelSobolev/BrainComputerInterfaces_IoT_SmartHome/blob/master/uiimg/02.jpeg) | ![Examples of UI](https://github.com/PavelSobolev/BrainComputerInterfaces_IoT_SmartHome/blob/master/uiimg/03.jpeg)
-
-![Examples of UI](https://github.com/PavelSobolev/BrainComputerInterfaces_IoT_SmartHome/blob/master/uiimg/04.jpeg) | ![Examples of UI](https://github.com/PavelSobolev/BrainComputerInterfaces_IoT_SmartHome/blob/master/uiimg/05.jpeg) | ![Examples of UI](https://github.com/PavelSobolev/BrainComputerInterfaces_IoT_SmartHome/blob/master/uiimg/06.jpeg)       
+![Examples of UI](https://github.com/PavelSobolev/BrainComputerInterfaces_IoT_SmartHome/blob/master/uiimg/01.jpeg) ![Examples of UI](https://github.com/PavelSobolev/BrainComputerInterfaces_IoT_SmartHome/blob/master/uiimg/02.jpeg) ![Examples of UI](https://github.com/PavelSobolev/BrainComputerInterfaces_IoT_SmartHome/blob/master/uiimg/03.jpeg) ![Examples of UI](https://github.com/PavelSobolev/BrainComputerInterfaces_IoT_SmartHome/blob/master/uiimg/04.jpeg) ![Examples of UI](https://github.com/PavelSobolev/BrainComputerInterfaces_IoT_SmartHome/blob/master/uiimg/05.jpeg) ![Examples of UI](https://github.com/PavelSobolev/BrainComputerInterfaces_IoT_SmartHome/blob/master/uiimg/06.jpeg)       
 
 ### Description of the project
 https://github.com/PavelSobolev/BrainComputerInterfaces_IoT_SmartHome/blob/master/770RIoT-Report-PavelSobolev.pdf
