@@ -12,15 +12,19 @@ This project peruses the following goals:
 3.	Choosing of appropriate BCI hardware systems which are suitable for achieving of project’s objectives;
 4.	Choosing of appropriate APIs, protocols, programming languages and frameworks which are optimal for achieving of project’s objectives.
 
-
 ### System architecture
 ![System architecture](https://github.com/PavelSobolev/BrainComputerInterfaces_IoT_SmartHome/blob/master/1.png)
+
+### Implemented funtionality
+
 
 ### Images of working system
 ![Images of working system](https://github.com/PavelSobolev/BrainComputerInterfaces_IoT_SmartHome/blob/master/2.png)
 
 ### Examples of UI
-![Examples of UI](https://github.com/PavelSobolev/BrainComputerInterfaces_IoT_SmartHome/blob/master/3.png)
+![Examples of UI](https://github.com/PavelSobolev/BrainComputerInterfaces_IoT_SmartHome/blob/master/uiimg/01.jpeg) |  ![Examples of UI](https://github.com/PavelSobolev/BrainComputerInterfaces_IoT_SmartHome/blob/master/uiimg/02.jpeg) | ![Examples of UI](https://github.com/PavelSobolev/BrainComputerInterfaces_IoT_SmartHome/blob/master/uiimg/03.jpeg)
+
+![Examples of UI](https://github.com/PavelSobolev/BrainComputerInterfaces_IoT_SmartHome/blob/master/uiimg/04.jpeg) | ![Examples of UI](https://github.com/PavelSobolev/BrainComputerInterfaces_IoT_SmartHome/blob/master/uiimg/05.jpeg) | ![Examples of UI](https://github.com/PavelSobolev/BrainComputerInterfaces_IoT_SmartHome/blob/master/uiimg/06.jpeg)       
 
 ### Description of the project
 https://github.com/PavelSobolev/BrainComputerInterfaces_IoT_SmartHome/blob/master/770RIoT-Report-PavelSobolev.pdf
