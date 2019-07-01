@@ -20,7 +20,7 @@ https://github.com/PavelSobolev/BrainComputerInterfaces_IoT_SmartHome/blob/maste
 https://github.com/PavelSobolev/BrainComputerInterfaces_IoT_SmartHome/blob/master/2.png
 
 ### Examples of UI
-https://github.com/PavelSobolev/BrainComputerInterfaces_IoT_SmartHome/blob/master/3.png
+[pict] https://github.com/PavelSobolev/BrainComputerInterfaces_IoT_SmartHome/blob/master/3.png
 
 ### Description of the project
 https://github.com/PavelSobolev/BrainComputerInterfaces_IoT_SmartHome/blob/master/770RIoT-Report-PavelSobolev.pdf
