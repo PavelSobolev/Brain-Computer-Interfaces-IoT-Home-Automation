@@ -7,9 +7,9 @@ The project is dedicated to the development and implementation of software and h
 Both mentioned systems are going to be controlled by data which is received from BCI based headset.
 
 This project peruses the following goals:
-1.	Planning, assembly and implementation of software and hardware system which can provide users with possibility to interact with computing devices by direct receiving and interpretation of the user’s brain activity data;
-2.	Studying of modern state of BCI (brain-computer interface) technologies for usage of their capabilities for the system being created. 
-3.	Choosing of appropriate BCI hardware systems which are suitable for achieving of project’s objectives.
+1.	Planning, assembling of hardware system and implementation of software which can provide users with possibility to interact with computing devices by direct receiving and interpretation of the user’s brain activity data;
+2.	Studying of modern state of BCI (brain-computer interface) technologies for usage of their capabilities for the system being created;
+3.	Choosing of appropriate BCI hardware systems which are suitable for achieving of project’s objectives;
 4.	Choosing of appropriate APIs, protocols, programming languages and frameworks which are optimal for achieving of project’s objectives.
 
 
