@@ -5,6 +5,7 @@ The project is dedicated to the development and implementation of software and h
 1.	home automation system which utilizes modern technologies of IoT (Internet of things) and technologies of smart home.
 2.	smartphone and mobile software which are aimed to give a user possibility to train one’s ability to consciously control two mentioned above physiological processes.
 Both mentioned systems are going to be controlled by data which is received from BCI based headset.
+
 This project peruses the following goals:
 1.	Planning, assembly and implementation of software and hardware system which can provide users with possibility to interact with computing devices by direct receiving and interpretation of the user’s brain activity data;
 2.	Studying of modern state of BCI (brain-computer interface) technologies for usage of their capabilities for the system being created. 
