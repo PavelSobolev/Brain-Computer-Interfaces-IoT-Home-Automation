@@ -14,13 +14,13 @@ This project peruses the following goals:
 
 
 ### System architecture
-![System architecture] https://github.com/PavelSobolev/BrainComputerInterfaces_IoT_SmartHome/blob/master/1.png
+![System architecture](https://github.com/PavelSobolev/BrainComputerInterfaces_IoT_SmartHome/blob/master/1.png)
 
 ### Images of working system
-![Images of working system] https://github.com/PavelSobolev/BrainComputerInterfaces_IoT_SmartHome/blob/master/2.png
+![Images of working system] (https://github.com/PavelSobolev/BrainComputerInterfaces_IoT_SmartHome/blob/master/2.png)
 
 ### Examples of UI
-![Examples of UI] https://github.com/PavelSobolev/BrainComputerInterfaces_IoT_SmartHome/blob/master/3.png
+![Examples of UI] (https://github.com/PavelSobolev/BrainComputerInterfaces_IoT_SmartHome/blob/master/3.png)
 
 ### Description of the project
 https://github.com/PavelSobolev/BrainComputerInterfaces_IoT_SmartHome/blob/master/770RIoT-Report-PavelSobolev.pdf
