@@ -15,8 +15,9 @@ This project peruses the following goals:
 ### System architecture
 ![System architecture](https://github.com/PavelSobolev/BrainComputerInterfaces_IoT_SmartHome/blob/master/1.png)
 
-### Implemented funtionality
+### Short description of mobile app functionality
 
+This mobile application allows the user to control component of home automation system (smart LED bulb) by sending control commands which are formed on the base of the user’s brain activity. Brain activity is measured by mobile headset which should be attached to the user scalp (data from the headset is sent to the user’s smartphone and then smartphon forms commands and sends to the home automation hub). Data of brain activity is mapped to the several characteristics of the LED-bulb which are light color and light intensity. 
 
 ### Images of working system
 ![Images of working system](https://github.com/PavelSobolev/BrainComputerInterfaces_IoT_SmartHome/blob/master/2.png)
